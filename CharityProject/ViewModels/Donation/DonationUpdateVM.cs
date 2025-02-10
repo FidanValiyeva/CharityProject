@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.ComponentModel.DataAnnotations;
 
 namespace CharityProject.ViewModels.Donation
 {
@@ -16,5 +17,6 @@ namespace CharityProject.ViewModels.Donation
 
         [Required(ErrorMessage = "Kampaniya seçilməlidir.")]
         public int CampaignId { get; set; }
+       
     }
 }

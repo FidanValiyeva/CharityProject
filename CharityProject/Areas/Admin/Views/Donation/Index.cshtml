@@ -1,0 +1,60 @@
+﻿@using CharityProject.Models
+@model List<Donation>
+
+@{
+    ViewData["Title"] = "Donations";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Donation List</h6>
+    </div>
+    <div class="card-body">
+        <div class="mb-3">
+            <a asp-action="Create" asp-controller="Donation" class="btn btn-outline-primary d-block mb-2">
+                Create New Donation
+            </a>
+            <a asp-action="Update" asp-controller="Donation" class="btn btn-outline-primary d-block mb-2">
+                Update Donation
+            </a>
+            <a asp-action="Delete" asp-controller="Donation" class="btn btn-outline-primary d-block">
+                Delete Donation
+            </a>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Donor</th>
+                    <th scope="col">Campaign</th>
+                    <th scope="col">Amount</th>
+                    <th colspan="2" scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Donor?.FullName</td>
+                        <td>@item.Campaign?.Name</td>
+                        <td>@item.Amount.ToString("C")</td>
+
+                        <td>
+                            <a class="btn btn-danger btn-sm" asp-action="Create" asp-route-id="@item.Id">Create</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-success btn-sm" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

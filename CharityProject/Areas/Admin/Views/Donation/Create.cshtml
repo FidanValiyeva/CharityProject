@@ -1,0 +1,64 @@
+﻿@using CharityProject.ViewModels.Donation
+@model DonationCreateVM
+
+@{
+    ViewData["Title"] = "Create Donation";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 d-flex justify-content-between">
+        <h6 class="m-0 font-weight-bold text-primary">Create Donation</h6>
+        <a asp-action="Index" asp-controller="Donation" class="btn btn-outline-primary">Return to List</a>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="DonorId"></label>
+                <select asp-for="DonorId" class="form-control">
+                    <option value="">-- Select Donor --</option>
+                    @if (ViewData["Donors"] != null)
+                    {
+                        var donors = ViewData["Donors"] as List<Donor>;
+                        @foreach (var donor in donors)
+                        {
+                            <option value="@donor.Id">@donor Full.Name</option>
+                        }
+                    }
+                    else
+                    {
+                        <option disabled>No Donors Available</option>
+                    }
+                </select>
+                <span asp-validation-for="DonorId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Amount"></label>
+                <input asp-for="Amount" class="form-control" type="number" step="0.01" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CampaignId"></label>
+                <select asp-for="CampaignId" class="form-control">
+                    <option value="">-- Select Campaign --</option>
+                    @if (ViewData["Campaigns"] != null)
+                    {
+                        var campaigns = ViewData["Campaigns"] as List<Campaign>;
+                        @foreach (var campaign in campaigns)
+                        {
+                            <option value="@campaign.Id">@campaign.Name</option>
+                        }
+                    }
+                    else
+                    {
+                        <option disabled>No Campaigns Available</option>
+                    }
+                </select>
+                <span asp-validation-for="CampaignId" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>

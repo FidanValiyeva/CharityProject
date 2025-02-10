@@ -1,0 +1,63 @@
+﻿@using CharityProject.Models
+@model List<ContactMessage>
+
+@{
+    ViewData["Title"] = "ContactMessages";
+}
+<div>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">ContactMessage List</h6>
+    </div>
+    <div class="card-body">
+        <div class="mb-3">
+            <a asp-action="Create" asp-controller="ContactMessage" class="btn btn-outline-primary d-block mb-2">
+                Create New ContactMessage
+            </a>
+            <a asp-action="Update" asp-controller="ContactMessage" class="btn btn-outline-primary d-block mb-2">
+                Update ContactMessage
+            </a>
+           
+        </div>
+
+    </div>
+</div>
+
+<div class="card-body">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>               
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Subject</th>
+                <th scope="col">Message</th>               
+                <th colspan="3" scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Subject</td>
+                    <td>@item.Message</td>                    
+                    <td>
+                        <a class="btn btn-primary" asp-action="Create" asp-route-id="@item.Id" class="btn btn-info btn-sm">Create</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-success" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Update</a>
+                    </td>
+                   
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+</div>
+
+
+
+

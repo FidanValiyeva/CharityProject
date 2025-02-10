@@ -4,9 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace CharityProject.ViewModels.Campaign
 {
     public class CampaignUpdateVM
-    {
-        [Required]
-        public int Id { get; set; }
+    {      
 
         [Required, MaxLength(100, ErrorMessage = "Kampaniya adı maksimum 100 simvol ola bilər.")]
         public string Name { get; set; }

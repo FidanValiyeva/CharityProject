@@ -25,7 +25,6 @@ namespace CharityProject.Areas.Admin.Controllers
         {
             return View();
         }
-
         [HttpPost]
         public async Task<IActionResult> Create(CampaignCreateVM vm)
         {
@@ -35,11 +34,23 @@ namespace CharityProject.Areas.Admin.Controllers
         {
             return View();
         }
-        [HttpGet]
+        [HttpPost]
         public async Task<IActionResult> Update(CampaignUpdateVM vm)
         {
             return View(vm);
         }
+        public async Task<IActionResult> Delete(int id)
+        {
+
+            return View(); 
+        }
+        [HttpGet]
+        public async Task<IActionResult> Delete(CampaignDeleteVM vm)
+        {
+
+            return View(vm);
+        }
+
 
 
 

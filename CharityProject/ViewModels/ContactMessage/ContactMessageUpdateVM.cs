@@ -4,8 +4,7 @@ namespace CharityProject.ViewModels.ContactMessage
 {
     public class ContactMessageUpdateVM
     {
-        [Required]
-        public int Id { get; set; }
+        
 
         [Required, MaxLength(100, ErrorMessage = "Ad maksimum 100 simvol ola bilər.")]
         public string Name { get; set; }

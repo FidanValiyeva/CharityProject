@@ -3,60 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\donation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\donation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\donation\\donationupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\donation\\donationupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\donation\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\donation\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\donation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\donation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\contactmessage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\contactmessage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\contactmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\contactmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\campaign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\campaign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\enums\\campaignstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\enums\\campaignstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\dal\\charitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\dal\\charitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\controllers\\contactmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\controllers\\contactmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessageupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessageupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessageitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessageitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessagecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessagecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\campaign\\campaignupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\campaign\\campaignupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\campaign\\campaignitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\campaign\\campaignitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\contactmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\contactmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\campaign\\campaigndeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,6 +97,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\campaign\\campaigncreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\campaign\\campaigncreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\enums\\campaignstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\enums\\campaignstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\dal\\charitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\dal\\charitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\campaign\\campaignitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\campaign\\campaignitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,10 +175,6 @@
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\donor\\donorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\donation\\donationupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\donation\\donationupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\donation\\donationitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\donation\\donationitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,22 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\donation\\donationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\donation\\donationcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessageupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessageupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessageitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessageitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessagedeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessagedeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\viewmodels\\contactmessage\\contactmessagecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\viewmodels\\contactmessage\\contactmessagecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\migrations\\20250209094446_createdcampaigntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,18 +205,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|solutionrelative:charityproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0149EF33-5252-4A90-B727-F9284E13AA67}|CharityProject\\CharityProject.csproj|c:\\users\\asus\\desktop\\charityproject\\charityproject\\charityproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -198,7 +230,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,59 +246,175 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Update.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Donation\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Update.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Donation\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T18:35:55.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Create.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Donation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Create.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Donation\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T18:27:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Donation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Donation\\Index.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Donation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T18:05:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Controllers\\DonationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:01:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Update.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Update.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Update.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T15:34:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Create.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T15:24:05.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Index.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\ContactMessage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T15:05:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\ContactMessageController.cs",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Controllers\\ContactMessageController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\ContactMessageController.cs",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Controllers\\ContactMessageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:00:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Delete.cshtml",
+              "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T13:44:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Update.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Update.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Update.cshtml",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T19:18:16.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Create.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Create.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Create.cshtml",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T18:56:46.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Index.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Campaign\\Index.cshtml",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Campaign\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T13:21:20.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CampaignController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\CampaignController.cs",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Controllers\\CampaignController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\CampaignController.cs",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Controllers\\CampaignController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T13:18:14.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 36,
               "Title": "VolunteerItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Volunteer\\VolunteerItemVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Volunteer\\VolunteerItemVM.cs",
@@ -278,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "VolunteerDeleteVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Volunteer\\VolunteerDeleteVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Volunteer\\VolunteerDeleteVM.cs",
@@ -290,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "VolunteerUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Volunteer\\VolunteerUpdateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Volunteer\\VolunteerUpdateVM.cs",
@@ -302,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "VolunteerCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Volunteer\\VolunteerCreateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Volunteer\\VolunteerCreateVM.cs",
@@ -314,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 41,
               "Title": "DonorDeleteVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donor\\DonorDeleteVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donor\\DonorDeleteVM.cs",
@@ -326,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 40,
               "Title": "DonorItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donor\\DonorItemVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donor\\DonorItemVM.cs",
@@ -338,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 39,
               "Title": "DonorUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donor\\DonorUpdateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donor\\DonorUpdateVM.cs",
@@ -350,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "DonorCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donor\\DonorCreateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donor\\DonorCreateVM.cs",
@@ -362,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "DonationItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donation\\DonationItemVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donation\\DonationItemVM.cs",
@@ -374,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 44,
               "Title": "DonationDeleteVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donation\\DonationDeleteVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donation\\DonationDeleteVM.cs",
@@ -386,19 +534,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 2,
               "Title": "DonationUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donation\\DonationUpdateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donation\\DonationUpdateVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donation\\DonationUpdateVM.cs",
               "RelativeToolTip": "CharityProject\\ViewModels\\Donation\\DonationUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:07:49.408Z"
+              "WhenOpened": "2025-02-09T10:07:49.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 45,
               "Title": "DonationCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Donation\\DonationCreateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Donation\\DonationCreateVM.cs",
@@ -410,19 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ContactMessageDeleteVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageDeleteVM.cs",
-              "RelativeDocumentMoniker": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageDeleteVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageDeleteVM.cs",
-              "RelativeToolTip": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageDeleteVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:04:30.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 18,
               "Title": "ContactMessageItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageItemVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageItemVM.cs",
@@ -434,31 +571,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "ContactMessageUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageUpdateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageUpdateVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageUpdateVM.cs",
               "RelativeToolTip": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageUpdateVM.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:03:53.166Z"
+              "WhenOpened": "2025-02-09T10:03:53.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 19,
               "Title": "ContactMessageCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageCreateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageCreateVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\ContactMessage\\ContactMessageCreateVM.cs",
               "RelativeToolTip": "CharityProject\\ViewModels\\ContactMessage\\ContactMessageCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T10:03:29.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "CampaignItemVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignItemVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Campaign\\CampaignItemVM.cs",
@@ -466,38 +604,35 @@
               "RelativeToolTip": "CharityProject\\ViewModels\\Campaign\\CampaignItemVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T10:00:04.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T10:00:04.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "CampaignDeleteVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignDeleteVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Campaign\\CampaignDeleteVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignDeleteVM.cs",
               "RelativeToolTip": "CharityProject\\ViewModels\\Campaign\\CampaignDeleteVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:59:46.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:59:46.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "CampaignUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignUpdateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Campaign\\CampaignUpdateVM.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignUpdateVM.cs",
               "RelativeToolTip": "CharityProject\\ViewModels\\Campaign\\CampaignUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:59:20.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:59:20.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "CampaignCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\ViewModels\\Campaign\\CampaignCreateVM.cs",
               "RelativeDocumentMoniker": "CharityProject\\ViewModels\\Campaign\\CampaignCreateVM.cs",
@@ -505,12 +640,11 @@
               "RelativeToolTip": "CharityProject\\ViewModels\\Campaign\\CampaignCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:59:04.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:59:04.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "CharityDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Migrations\\CharityDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CharityProject\\Migrations\\CharityDbContextModelSnapshot.cs",
@@ -522,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "20250209094446_CreatedCampaignTable.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Migrations\\20250209094446_CreatedCampaignTable.cs",
               "RelativeDocumentMoniker": "CharityProject\\Migrations\\20250209094446_CreatedCampaignTable.cs",
@@ -534,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "CampaignStatus.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Enums\\CampaignStatus.cs",
               "RelativeDocumentMoniker": "CharityProject\\Enums\\CampaignStatus.cs",
@@ -542,12 +676,11 @@
               "RelativeToolTip": "CharityProject\\Enums\\CampaignStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:38:57.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:38:57.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 49,
               "Title": "Volunteer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\Volunteer.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\Volunteer.cs",
@@ -559,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\User.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\User.cs",
@@ -571,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 13,
               "Title": "Donor.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\Donor.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\Donor.cs",
@@ -579,24 +712,25 @@
               "RelativeToolTip": "CharityProject\\Models\\Donor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:33:18.106Z"
+              "WhenOpened": "2025-02-09T09:33:18.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Donation.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\Donation.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\Donation.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\Donation.cs",
               "RelativeToolTip": "CharityProject\\Models\\Donation.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T09:33:05.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 26,
               "Title": "ContactMessage.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\ContactMessage.cs",
@@ -608,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
               "Title": "Campaign.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\Campaign.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\Campaign.cs",
@@ -616,12 +750,11 @@
               "RelativeToolTip": "CharityProject\\Models\\Campaign.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:30:49.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:30:49.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 27,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CharityProject\\Models\\BaseEntity.cs",
@@ -633,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\appsettings.json",
               "RelativeDocumentMoniker": "CharityProject\\appsettings.json",
@@ -645,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "CharityDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\DAL\\CharityDbContext.cs",
               "RelativeDocumentMoniker": "CharityProject\\DAL\\CharityDbContext.cs",
@@ -653,12 +786,11 @@
               "RelativeToolTip": "CharityProject\\DAL\\CharityDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T09:22:08.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:22:08.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Program.cs",
               "RelativeDocumentMoniker": "CharityProject\\Program.cs",
@@ -670,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Views\\_ViewImports.cshtml",
@@ -682,20 +814,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T09:18:49.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:18:49.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -707,20 +838,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T09:17:45.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -728,12 +859,11 @@
               "RelativeToolTip": "CharityProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T09:16:22.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T09:16:22.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "CharityProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -746,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "CharityProject.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\CharityProject.csproj",
               "RelativeDocumentMoniker": "CharityProject\\CharityProject.csproj",
@@ -758,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 53,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Views\\Shared\\_Layout.cshtml",
@@ -770,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CharityProject\\Views\\Home\\Index.cshtml",
@@ -782,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CharityProject\\CharityProject\\CharityProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CharityProject\\Controllers\\HomeController.cs",
